@@ -1,0 +1,1 @@
+export const BACKEND_URL = "https://aidev-ivopnj20w-rohaneths-projects.vercel.app/"
